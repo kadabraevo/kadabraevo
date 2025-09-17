@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a student at LAB University of Applied Sciences studing ICT
 <!--
 **kadabraevo/kadabraevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
